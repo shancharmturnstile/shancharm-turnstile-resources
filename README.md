@@ -1,1 +1,1 @@
-This is an official resource hub of Shancharm.com
+This is an official resource hub of [Shancharm.com](http://shancharm.com/)
